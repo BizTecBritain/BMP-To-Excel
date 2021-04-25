@@ -94,7 +94,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Installation
 
-Clone the repo with ``` $ git clone https://github.com/BizTecBritain/BMP-To-Excel.git```
+Clone the repo with ```$ git clone https://github.com/BizTecBritain/BMP-To-Excel.git```
 
 
 
