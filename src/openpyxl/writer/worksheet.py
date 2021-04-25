@@ -189,8 +189,6 @@ def write_hyperlinks(worksheet):
                      'ref': cell.coordinate,
                      '{%s}id' % REL_NS: cell.hyperlink_rel_id}
             tag.append(Element('hyperlink', attrs))
-    if tag.getchildren():
-        return tag
 
 
 def write_pagebreaks(worksheet):
