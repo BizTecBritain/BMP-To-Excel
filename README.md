@@ -108,14 +108,9 @@ First enter the directory with
 $ cd src
 ```
 
-The first time the code is run or to reset the Users database run
-```
-$ python manage.py init-db
-```
-
 Then to use this code simply run
 ```
-$ python manage.py runserver
+$ python BMP2Excel.py
 ```
 
 _For more examples, please refer to the [Documentation](https://example.com)_
@@ -124,7 +119,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues](https://github.com/BizTecBritain/Flask-Music-Player/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/BizTecBritain/BMP-To-Excel/issues) for a list of proposed features (and known issues).
 
 
 
@@ -142,7 +137,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## License
 
-Distributed under the GNU License. See `LICENSE` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
@@ -150,20 +145,20 @@ Distributed under the GNU License. See `LICENSE` for more information.
 
 Alexander Bisland - [@twitter_handle](https://twitter.com/twitter_handle) - BizTecBritain@gmail.com
 
-Project Link: [https://github.com/BizTecBritain/Flask-Music-Player](https://github.com/BizTecBritain/Flask-Music-Player) 
+Project Link: [https://github.com/BizTecBritain/BMP-To-Excel](https://github.com/BizTecBritain/BMP-To-Excel) 
 
 
 
 ## Acknowledgements
 
-* Thanks to [y4h2](https://github.com/y4h2/Flask-Music-Player) for the basic code
+* Thanks to [ericgazoni](https://github.com/ericgazoni/openpyxl) for the excel spreadsheet interaction code
 * Thanks to [othneildrew](https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md) for the blank README.md file
 
-[contributors-shield]: https://img.shields.io/github/contributors/BizTecBritain/Flask-Music-Player.svg?style=for-the-badge
-[contributors-url]: https://github.com/BizTecBritain/Flask-Music-Player/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/BizTecBritain/Flask-Music-Player.svg?style=for-the-badge
-[forks-url]: https://github.com/BizTecBritain/Flask-Music-Player/network/members
-[issues-shield]: https://img.shields.io/github/issues/BizTecBritain/Flask-Music-Player.svg?style=for-the-badge
-[issues-url]: https://github.com/BizTecBritain/Flask-Music-Player/issues
+[contributors-shield]: https://img.shields.io/github/contributors/BizTecBritain/BMP-To-Excel.svg?style=for-the-badge
+[contributors-url]: https://github.com/BizTecBritain/BMP-To-Excel/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/BizTecBritain/BMP-To-Excel.svg?style=for-the-badge
+[forks-url]: https://github.com/BizTecBritain/BMP-To-Excel/network/members
+[issues-shield]: https://img.shields.io/github/issues/BizTecBritain/BMP-To-Excel.svg?style=for-the-badge
+[issues-url]: https://github.com/BizTecBritain/BMP-To-Excel/issues
 <!--[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew-->
