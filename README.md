@@ -7,23 +7,23 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/BizTecBritain/Flask-Music-Player">
+  <a href="https://github.com/BizTecBritain/BMP-To-Excel">
     <img src="images/BizTec.png" alt="Logo" width="580" height="300">
   </a>
 
   <h3 align="center">Flask Music Player</h3>
 
   <p align="center">
-    This is a simple music player made in python and Flask
+    This is a program that converts 24-bit bitmap images into an excel spreadsheet
     <br />
-    <a href="https://github.com/BizTecBritain/Flask-Music-Player"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/BizTecBritain/BMP-To-Excel"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/BizTecBritain/Flask-Music-Player">View Demo</a>
+    <a href="https://github.com/BizTecBritain/BMP-To-Excel">View Demo</a>
     ·
-    <a href="https://github.com/BizTecBritain/Flask-Music-Player/issues">Report Bug</a>
+    <a href="https://github.com/BizTecBritain/BMP-To-Excel/issues">Report Bug</a>
     ·
-    <a href="https://github.com/BizTecBritain/Flask-Music-Player/issues">Request Feature</a>
+    <a href="https://github.com/BizTecBritain/BMP-To-Excel/issues">Request Feature</a>
   </p>
 </p>
 
@@ -64,7 +64,6 @@ I do a lot of random stuff and this is an example of one of them
 ### Built With
 
 * Python version: 3.x
-* Flask version: 1.1.2 (Tested)
 
 
 
@@ -97,11 +96,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```
-   $ git clone https://github.com/BizTecBritain/Flask-Music-Player.git
-   ```
-2. Install requirements
-   ```
-   $ pip install -r pySource/requirements.txt
+   $ git clone https://github.com/BizTecBritain/BMP-To-Excel.git
    ```
 
 
@@ -110,7 +105,7 @@ To get a local copy up and running follow these simple steps.
 
 First enter the directory with
 ```
-$ cd pySource
+$ cd src
 ```
 
 The first time the code is run or to reset the Users database run
